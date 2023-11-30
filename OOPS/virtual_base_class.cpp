@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// jo bhai virtual base ma to khali mare virtual keyword j use karvano che ok 
+// jo bhai virtual base ma to khali mare virtual keyword j use karvano che ok baki tare aakhu same j che ok  
 class student
 {
     protected:
