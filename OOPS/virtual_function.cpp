@@ -24,9 +24,9 @@ int main()
   // object of baseclass
   Baseclass b1;
   derived d1;
-  //have mare che ne base class no pointer will point the derived clas object
+  //have mare che ne base class no pointer will point the derived class object
   ptr = &d1;
-  b1.display();
+  ptr->display();
   return 0;
     
 }

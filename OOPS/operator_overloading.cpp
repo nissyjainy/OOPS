@@ -20,11 +20,11 @@
 //     {
 //         cout<<"The complex number is"<<real<<"+"<<imag<<"i"<<endl;
 //     }
-//     Complex operator -(Complex c)
+//     Complex operator +(Complex c)
 //     {
 //         Complex  temp;
-//         temp.real = real - c.real;
-//         temp.imag = imag - c.imag;
+//         temp.real = real + c.real;
+//         temp.imag = imag + c.imag;
 //         return temp;
 //         // ahiya tare che ne complex return karvanu che atle temp complex lidhu che ok 
 //     }
